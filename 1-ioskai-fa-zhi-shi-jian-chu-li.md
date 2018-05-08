@@ -210,5 +210,3 @@ UIView是UIResponder的子类，可以覆盖下列4个方法处理不同的触�
     - 把事件传递给控制器，测试白色view的上一个响应者是否是控制器。
     - 响应者链条示意图<br>
     ![](/assets/WX20180206-141244.png)
-
-![](/assets/assets:CAAnimation类继承结构图.png)
