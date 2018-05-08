@@ -11,7 +11,6 @@
 - 2.初始化一个CAAnimation对象，并设置一些动画相关属性
 - 3.通过调用CALayer的addAnimation:forKey:方法增加CAAnimation对象到CALayer中，这样就能开始执行动画了
 - 4.通过调用CALayer的removeAnimationForKey:方法可以停止CALayer中的动画
-
 # CAAnimation的使用(`核心`)
 - CAAnimation类继承结构图
 ![](/assets/CAAnimation类继承结构图.png)
