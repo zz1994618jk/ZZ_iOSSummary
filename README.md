@@ -57,7 +57,31 @@
     - 6.12矩阵操作
     - 6.13利用Quartz2D实现手势解锁
     - 6.14Quartz2D的内存管理
+    
+# 七 iOS开发之Quartz2D补充
+    - 7.0Quartz2D绘图方法名
+    - 7.1NSString字符串的画图写入
+    - 7.2利用Quartz2D对图片放大缩小的功能(`效率低了点`)
+    - 7.3利用Quartz2D绘制图片
+    - 7.4利用Quartz2D实现逐变颜色填充方法
+    - 7.5Quartz2D使用注意点(`重点`)
+    - 7.6Quartz2D Function Description (`方法解读`)
+    - 7.7利用Quartz2D绘制动态曲线
 
+# 八 iOS开发之Socket&XMPP
+    - 8.0什么是Socket?
+    - 8.1什么是http?
+    - 8.2http与socket的区别?
+    - 8.3实现简单聊天室(socket)
+    - 8.4XMPP
+
+# 九 iOS开发之Core Animation(核心动画）
+    - 9.0Core Animation简介
+    - 9.1Core Animation的使用步骤
+    - 9.2CAAnimation的使用(`核心`)
+    - 9.3CAPropertyAnimation的使用
+    - 9.4CAMediaTiming动画协议(protocol)属性解析
+    - 9.5补充说明
 
 
 
