@@ -11,4 +11,5 @@
 * [8-iOS开发之Socket&XMPP](8-ioskai-fa-zhi-socket-and-xmpp.md)
 * [9-iOS开发之核心动画\(Core Animation\)](9-ioskai-fa-zhi-he-xin-dong-753b28-core-animation.md)
 * [10-iOS开发之iOS9.0新特性](10-ioskai-fa-zhi-ios9-0-xin-te-xing.md)
+* [11-JS原型链怎么理解?](11-jsyuan-xing-lian-zen-yao-li-89e33f.md)
 
