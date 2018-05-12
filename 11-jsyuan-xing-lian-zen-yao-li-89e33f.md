@@ -24,7 +24,7 @@ dog的构造函数就是Function，因为var dog = function(){};
 所以，dog.__proto__ == Function.prototype；
 而Function.prototype并没有price属性，如果加一句：Function.prototype.price = 123；那么第一个打印就是123；
 
-如此依赖，tidy是一个普通对象，由dog函数构造而来，因此tidy__proto__ == dog.prototype == animal；
+如此依赖，tidy是一个普通对象，由dog函数构造而来，因此tidy.__proto__ == dog.prototype == animal；
 
 所以当tidy上找不到price属性时，会从__proto__寻找原型上的方法，找到animal对象，animal对象有price属性，则返回。
 ```
